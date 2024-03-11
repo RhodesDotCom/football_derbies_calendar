@@ -1,0 +1,552 @@
+1	2023-08-05	Barnsley	Port Vale
+1	2023-08-05	Carlisle United	Fleetwood Town
+1	2023-08-05	Reading	P'borough Utd
+1	2023-08-05	Cambridge Utd	Oxford United
+1	2023-08-05	Wycombe	Exeter City
+1	2023-08-05	Northampton	Stevenage
+1	2023-08-05	Derby County	Wigan Athletic
+1	2023-08-05	Shrewsbury	Cheltenham
+1	2023-08-05	Portsmouth	Bristol Rovers
+1	2023-08-05	Bolton	Lincoln City
+1	2023-08-05	Charlton Ath	Leyton Orient
+1	2023-08-05	Blackpool	Burton Albion
+2	2023-08-12	Exeter City	Blackpool
+2	2023-08-12	Wigan Athletic	Northampton
+2	2023-08-12	Cheltenham	Bolton
+2	2023-08-12	Leyton Orient	Portsmouth
+2	2023-08-12	P'borough Utd	Charlton Ath
+2	2023-08-12	Port Vale	Reading
+2	2023-08-12	Oxford United	Carlisle United
+2	2023-08-12	Lincoln City	Wycombe
+2	2023-08-12	Burton Albion	Derby County
+2	2023-08-12	Bristol Rovers	Barnsley
+2	2023-08-12	Stevenage	Shrewsbury
+2	2023-08-12	Fleetwood Town	Cambridge Utd
+3	2023-08-15	Carlisle United	Wigan Athletic
+3	2023-08-15	Bolton	Fleetwood Town
+3	2023-08-15	Wycombe	Leyton Orient
+3	2023-08-15	Blackpool	Port Vale
+3	2023-08-15	Barnsley	P'borough Utd
+3	2023-08-15	Cambridge Utd	Stevenage
+3	2023-08-15	Northampton	Lincoln City
+3	2023-08-15	Charlton Ath	Bristol Rovers
+3	2023-08-15	Derby County	Oxford United
+3	2023-08-15	Shrewsbury	Burton Albion
+3	2023-08-15	Reading	Cheltenham
+3	2023-08-15	Portsmouth	Exeter City
+4	2023-08-19	Bolton	Wigan Athletic
+4	2023-08-19	Cambridge Utd	Bristol Rovers
+4	2023-08-19	Reading	Stevenage
+4	2023-08-19	Portsmouth	Cheltenham
+4	2023-08-19	Carlisle United	Exeter City
+4	2023-08-19	Blackpool	Leyton Orient
+4	2023-08-19	Wycombe	Burton Albion
+4	2023-08-19	Northampton	P'borough Utd
+4	2023-08-19	Derby County	Fleetwood Town
+4	2023-08-19	Charlton Ath	Port Vale
+4	2023-08-19	Shrewsbury	Lincoln City
+4	2023-08-19	Barnsley	Oxford United
+5	2023-08-26	Burton Albion	Bolton
+5	2023-08-26	Bristol Rovers	Wycombe
+5	2023-08-26	Exeter City	Reading
+5	2023-08-26	Leyton Orient	Cambridge Utd
+5	2023-08-26	Wigan Athletic	Barnsley
+5	2023-08-26	Fleetwood Town	Shrewsbury
+5	2023-08-26	Stevenage	Portsmouth
+5	2023-08-26	Cheltenham	Northampton
+5	2023-08-26	Lincoln City	Blackpool
+5	2023-08-26	Oxford United	Charlton Ath
+5	2023-08-26	Port Vale	Carlisle United
+5	2023-08-26	P'borough Utd	Derby County
+6	2023-09-02	Carlisle United	Shrewsbury
+6	2023-09-02	Cambridge Utd	Reading
+6	2023-09-02	Oxford United	Port Vale
+6	2023-09-02	Leyton Orient	Stevenage
+6	2023-09-02	Bolton	Derby County
+6	2023-09-02	Burton Albion	Exeter City
+6	2023-09-02	Cheltenham	Barnsley
+6	2023-09-02	Bristol Rovers	Lincoln City
+6	2023-09-02	Blackpool	Wigan Athletic
+6	2023-09-02	Northampton	Wycombe
+6	2023-09-02	Portsmouth	P'borough Utd
+6	2023-09-02	Charlton Ath	Fleetwood Town
+7	2023-09-09	Shrewsbury	Bolton
+7	2023-09-09	Fleetwood Town	Blackpool
+7	2023-09-09	P'borough Utd	Cheltenham
+7	2023-09-09	Wigan Athletic	Charlton Ath
+7	2023-09-09	Port Vale	Burton Albion
+7	2023-09-09	Lincoln City	Oxford United
+7	2023-09-09	Derby County	Northampton
+7	2023-09-09	Reading	Bristol Rovers
+7	2023-09-09	Exeter City	Leyton Orient
+7	2023-09-09	Barnsley	Portsmouth
+7	2023-09-09	Stevenage	Carlisle United
+7	2023-09-09	Wycombe	Cambridge Utd
+8	2023-09-16	P'borough Utd	Leyton Orient
+8	2023-09-16	Derby County	Portsmouth
+8	2023-09-16	Exeter City	Cheltenham
+8	2023-09-16	Fleetwood Town	Oxford United
+8	2023-09-16	Shrewsbury	Bristol Rovers
+8	2023-09-16	Port Vale	Northampton
+8	2023-09-16	Wycombe	Blackpool
+8	2023-09-16	Stevenage	Charlton Ath
+8	2023-09-16	Reading	Bolton
+8	2023-09-16	Lincoln City	Carlisle United
+8	2023-09-16	Barnsley	Burton Albion
+8	2023-09-16	Wigan Athletic	Cambridge Utd
+9	2023-09-23	Cambridge Utd	Port Vale
+9	2023-09-23	Carlisle United	Derby County
+9	2023-09-23	Bolton	P'borough Utd
+9	2023-09-23	Charlton Ath	Wycombe
+9	2023-09-23	Northampton	Barnsley
+9	2023-09-23	Bristol Rovers	Wigan Athletic
+9	2023-09-23	Blackpool	Reading
+9	2023-09-23	Cheltenham	Stevenage
+9	2023-09-23	Leyton Orient	Shrewsbury
+9	2023-09-23	Oxford United	Exeter City
+9	2023-09-23	Portsmouth	Lincoln City
+9	2023-09-23	Burton Albion	Fleetwood Town
+10	2023-09-30	Wycombe	Carlisle United
+10	2023-09-30	P'borough Utd	Bristol Rovers
+10	2023-09-30	Lincoln City	Cheltenham
+10	2023-09-30	Barnsley	Blackpool
+10	2023-09-30	Exeter City	Northampton
+10	2023-09-30	Port Vale	Bolton
+10	2023-09-30	Fleetwood Town	Leyton Orient
+10	2023-09-30	Reading	Burton Albion
+10	2023-09-30	Derby County	Cambridge Utd
+10	2023-09-30	Shrewsbury	Charlton Ath
+10	2023-09-30	Wigan Athletic	Portsmouth
+10	2023-09-30	Stevenage	Oxford United
+11	2023-10-03	Cheltenham	Fleetwood Town
+11	2023-10-03	Burton Albion	Wigan Athletic
+11	2023-10-03	Bristol Rovers	Port Vale
+11	2023-10-03	Carlisle United	P'borough Utd
+11	2023-10-03	Blackpool	Derby County
+11	2023-10-03	Cambridge Utd	Barnsley
+11	2023-10-03	Bolton	Stevenage
+11	2023-10-03	Charlton Ath	Exeter City
+11	2023-10-03	Oxford United	Shrewsbury
+11	2023-10-03	Leyton Orient	Lincoln City
+11	2023-10-03	Portsmouth	Wycombe
+11	2023-10-03	Northampton	Reading
+12	2023-10-07	Shrewsbury	Northampton
+12	2023-10-07	Fleetwood Town	Wycombe
+12	2023-10-07	Bolton	Carlisle United
+12	2023-10-07	Stevenage	Wigan Athletic
+12	2023-10-07	Leyton Orient	Reading
+12	2023-10-07	P'borough Utd	Lincoln City
+12	2023-10-07	Oxford United	Bristol Rovers
+12	2023-10-07	Exeter City	Barnsley
+12	2023-10-07	Cheltenham	Derby County
+12	2023-10-07	Charlton Ath	Blackpool
+12	2023-10-07	Burton Albion	Cambridge Utd
+12	2023-10-07	Portsmouth	Port Vale
+13	2023-10-14	Cambridge Utd	Shrewsbury
+13	2023-10-14	Barnsley	Bolton
+13	2023-10-14	Lincoln City	Burton Albion
+13	2023-10-14	Blackpool	Stevenage
+13	2023-10-14	Wigan Athletic	P'borough Utd
+13	2023-10-14	Northampton	Portsmouth
+13	2023-10-14	Derby County	Charlton Ath
+13	2023-10-14	Wycombe	Cheltenham
+13	2023-10-14	Bristol Rovers	Exeter City
+13	2023-10-14	Port Vale	Fleetwood Town
+13	2023-10-14	Reading	Oxford United
+13	2023-10-14	Carlisle United	Leyton Orient
+14	2023-10-21	Oxford United	Blackpool
+14	2023-10-21	Shrewsbury	Derby County
+14	2023-10-21	P'borough Utd	Wycombe
+14	2023-10-21	Stevenage	Port Vale
+14	2023-10-21	Charlton Ath	Reading
+14	2023-10-21	Portsmouth	Carlisle United
+14	2023-10-21	Burton Albion	Bristol Rovers
+14	2023-10-21	Fleetwood Town	Lincoln City
+14	2023-10-21	Exeter City	Wigan Athletic
+14	2023-10-21	Cheltenham	Cambridge Utd
+14	2023-10-21	Bolton	Northampton
+14	2023-10-21	Leyton Orient	Barnsley
+15	2023-10-24	Blackpool	Cheltenham
+15	2023-10-24	Cambridge Utd	Portsmouth
+15	2023-10-24	Northampton	Leyton Orient
+15	2023-10-24	Carlisle United	Burton Albion
+15	2023-10-24	Wycombe	Bolton
+15	2023-10-24	Lincoln City	Charlton Ath
+15	2023-10-24	Bristol Rovers	Stevenage
+15	2023-10-24	Port Vale	P'borough Utd
+15	2023-10-24	Barnsley	Shrewsbury
+15	2023-10-24	Reading	Fleetwood Town
+15	2023-10-24	Wigan Athletic	Oxford United
+15	2023-10-24	Derby County	Exeter City
+16	2023-10-28	Oxford United	Wycombe
+16	2023-10-28	Reading	Portsmouth
+16	2023-10-28	Wigan Athletic	Shrewsbury
+16	2023-10-28	Stevenage	Derby County
+16	2023-10-28	Blackpool	P'borough Utd
+16	2023-10-28	Burton Albion	Leyton Orient
+16	2023-10-28	Barnsley	Fleetwood Town
+16	2023-10-28	Port Vale	Cheltenham
+16	2023-10-28	Bristol Rovers	Northampton
+16	2023-10-28	Exeter City	Lincoln City
+16	2023-10-28	Charlton Ath	Bolton
+16	2023-10-28	Cambridge Utd	Carlisle United
+17	2023-11-11	Cheltenham	Wigan Athletic
+17	2023-11-11	Derby County	Barnsley
+17	2023-11-11	Lincoln City	Port Vale
+17	2023-11-11	Fleetwood Town	Exeter City
+17	2023-11-11	Wycombe	Stevenage
+17	2023-11-11	P'borough Utd	Cambridge Utd
+17	2023-11-11	Leyton Orient	Oxford United
+17	2023-11-11	Shrewsbury	Reading
+17	2023-11-11	Portsmouth	Charlton Ath
+17	2023-11-11	Bolton	Blackpool
+17	2023-11-11	Northampton	Burton Albion
+17	2023-11-11	Carlisle United	Bristol Rovers
+18	2023-11-18	Exeter City	P'borough Utd
+18	2023-11-18	Wigan Athletic	Wycombe
+18	2023-11-18	Burton Albion	Cheltenham
+18	2023-11-18	Cambridge Utd	Bolton
+18	2023-11-18	Charlton Ath	Northampton
+18	2023-11-18	Oxford United	Portsmouth
+18	2023-11-18	Blackpool	Shrewsbury
+18	2023-11-18	Port Vale	Leyton Orient
+18	2023-11-18	Bristol Rovers	Fleetwood Town
+18	2023-11-18	Barnsley	Carlisle United
+18	2023-11-18	Stevenage	Lincoln City
+18	2023-11-18	Reading	Derby County
+19	2023-11-25	Wycombe	Reading
+19	2023-11-25	P'borough Utd	Burton Albion
+19	2023-11-25	Leyton Orient	Wigan Athletic
+19	2023-11-25	Lincoln City	Barnsley
+19	2023-11-25	Portsmouth	Blackpool
+19	2023-11-25	Carlisle United	Charlton Ath
+19	2023-11-25	Bolton	Exeter City
+19	2023-11-25	Northampton	Cambridge Utd
+19	2023-11-25	Shrewsbury	Port Vale
+19	2023-11-25	Fleetwood Town	Stevenage
+19	2023-11-25	Cheltenham	Oxford United
+19	2023-11-25	Derby County	Bristol Rovers
+20	2023-11-28	Blackpool	Northampton
+20	2023-11-28	Oxford United	Bolton
+20	2023-11-28	Cambridge Utd	Lincoln City
+20	2023-11-28	Wigan Athletic	Fleetwood Town
+20	2023-11-28	Exeter City	Shrewsbury
+20	2023-11-28	Stevenage	P'borough Utd
+20	2023-11-28	Burton Albion	Portsmouth
+20	2023-11-28	Barnsley	Wycombe
+20	2023-11-28	Charlton Ath	Cheltenham
+20	2023-11-28	Reading	Carlisle United
+20	2023-11-28	Bristol Rovers	Leyton Orient
+20	2023-11-28	Port Vale	Derby County
+21	2023-12-09	Bristol Rovers	Cheltenham
+21	2023-12-09	Burton Albion	Stevenage
+21	2023-12-09	Exeter City	Port Vale
+21	2023-12-09	Reading	Barnsley
+21	2023-12-09	Leyton Orient	Derby County
+21	2023-12-09	Portsmouth	Bolton
+21	2023-12-09	Wycombe	Shrewsbury
+21	2023-12-09	Blackpool	Carlisle United
+21	2023-12-09	P'borough Utd	Oxford United
+21	2023-12-09	Northampton	Fleetwood Town
+21	2023-12-09	Wigan Athletic	Lincoln City
+21	2023-12-09	Charlton Ath	Cambridge Utd
+22	2023-12-16	Shrewsbury	Portsmouth
+22	2023-12-16	Carlisle United	Northampton
+22	2023-12-16	Fleetwood Town	P'borough Utd
+22	2023-12-16	Oxford United	Burton Albion
+22	2023-12-16	Stevenage	Exeter City
+22	2023-12-16	Lincoln City	Reading
+22	2023-12-16	Barnsley	Charlton Ath
+22	2023-12-16	Derby County	Wycombe
+22	2023-12-16	Port Vale	Wigan Athletic
+22	2023-12-16	Bolton	Bristol Rovers
+22	2023-12-16	Cambridge Utd	Blackpool
+22	2023-12-16	Cheltenham	Leyton Orient
+23	2023-12-23	Shrewsbury	P'borough Utd
+23	2023-12-23	Wycombe	Port Vale
+23	2023-12-23	Blackpool	Bristol Rovers
+23	2023-12-23	Reading	Wigan Athletic
+23	2023-12-23	Derby County	Lincoln City
+23	2023-12-23	Charlton Ath	Burton Albion
+23	2023-12-23	Northampton	Oxford United
+23	2023-12-23	Portsmouth	Fleetwood Town
+23	2023-12-23	Bolton	Leyton Orient
+23	2023-12-23	Carlisle United	Cheltenham
+23	2023-12-23	Barnsley	Stevenage
+23	2023-12-23	Cambridge Utd	Exeter City
+24	2023-12-26	Burton Albion	Blackpool
+24	2023-12-26	Bristol Rovers	Portsmouth
+24	2023-12-26	Port Vale	Barnsley
+24	2023-12-26	P'borough Utd	Reading
+24	2023-12-26	Lincoln City	Bolton
+24	2023-12-26	Wigan Athletic	Derby County
+24	2023-12-26	Leyton Orient	Charlton Ath
+24	2023-12-26	Exeter City	Wycombe
+24	2023-12-26	Oxford United	Cambridge Utd
+24	2023-12-26	Fleetwood Town	Carlisle United
+24	2023-12-26	Cheltenham	Shrewsbury
+24	2023-12-26	Stevenage	Northampton
+25	2023-12-29	Stevenage	Cambridge Utd
+25	2023-12-29	Bristol Rovers	Charlton Ath
+25	2023-12-29	Oxford United	Derby County
+25	2023-12-29	Lincoln City	Northampton
+25	2023-12-29	Cheltenham	Reading
+25	2023-12-29	Fleetwood Town	Bolton
+25	2023-12-29	P'borough Utd	Barnsley
+25	2023-12-29	Burton Albion	Shrewsbury
+25	2023-12-29	Port Vale	Blackpool
+25	2023-12-29	Leyton Orient	Wycombe
+25	2023-12-29	Wigan Athletic	Carlisle United
+25	2023-12-29	Exeter City	Portsmouth
+26	2024-01-01	Northampton	Cheltenham
+26	2024-01-01	Cambridge Utd	Leyton Orient
+26	2024-01-01	Barnsley	Wigan Athletic
+26	2024-01-01	Shrewsbury	Fleetwood Town
+26	2024-01-01	Carlisle United	Port Vale
+26	2024-01-01	Blackpool	Lincoln City
+26	2024-01-01	Charlton Ath	Oxford United
+26	2024-01-01	Bolton	Burton Albion
+26	2024-01-01	Wycombe	Bristol Rovers
+26	2024-01-01	Portsmouth	Stevenage
+26	2024-01-01	Reading	Exeter City
+26	2024-01-01	Derby County	P'borough Utd
+27	2024-01-06	Port Vale	Charlton Ath
+27	2024-01-06	Lincoln City	Shrewsbury
+27	2024-01-06	Stevenage	Reading
+27	2024-01-06	Burton Albion	Wycombe
+27	2024-01-06	P'borough Utd	Northampton
+27	2024-01-06	Bristol Rovers	Cambridge Utd
+27	2024-01-06	Exeter City	Carlisle United
+27	2024-01-06	Cheltenham	Portsmouth
+27	2024-01-06	Wigan Athletic	Bolton
+27	2024-01-06	Leyton Orient	Blackpool
+27	2024-01-06	Oxford United	Barnsley
+27	2024-01-06	Fleetwood Town	Derby County
+28	2024-01-13	Shrewsbury	Stevenage
+28	2024-01-13	Barnsley	Bristol Rovers
+28	2024-01-13	Cambridge Utd	Fleetwood Town
+28	2024-01-13	Blackpool	Exeter City
+28	2024-01-13	Carlisle United	Oxford United
+28	2024-01-13	Northampton	Wigan Athletic
+28	2024-01-13	Portsmouth	Leyton Orient
+28	2024-01-13	Charlton Ath	P'borough Utd
+28	2024-01-13	Reading	Port Vale
+28	2024-01-13	Wycombe	Lincoln City
+28	2024-01-13	Derby County	Burton Albion
+28	2024-01-13	Bolton	Cheltenham
+29	2024-01-20	Exeter City	Cambridge Utd
+29	2024-01-20	Fleetwood Town	Portsmouth
+29	2024-01-20	Bristol Rovers	Blackpool
+29	2024-01-20	Burton Albion	Charlton Ath
+29	2024-01-20	Cheltenham	Carlisle United
+29	2024-01-20	Oxford United	Northampton
+29	2024-01-20	Wigan Athletic	Reading
+29	2024-01-20	P'borough Utd	Shrewsbury
+29	2024-01-20	Stevenage	Barnsley
+29	2024-01-20	Lincoln City	Derby County
+29	2024-01-20	Port Vale	Wycombe
+29	2024-01-20	Leyton Orient	Bolton
+30	2024-01-27	Bristol Rovers	Oxford United
+30	2024-01-27	Cambridge Utd	Burton Albion
+30	2024-01-27	Reading	Leyton Orient
+30	2024-01-27	Carlisle United	Bolton
+30	2024-01-27	Lincoln City	P'borough Utd
+30	2024-01-27	Barnsley	Exeter City
+30	2024-01-27	Blackpool	Charlton Ath
+30	2024-01-27	Port Vale	Portsmouth
+30	2024-01-27	Wycombe	Fleetwood Town
+30	2024-01-27	Northampton	Shrewsbury
+30	2024-01-27	Wigan Athletic	Stevenage
+30	2024-01-27	Derby County	Cheltenham
+31	2024-02-03	Portsmouth	Northampton
+31	2024-02-03	Stevenage	Blackpool
+31	2024-02-03	Burton Albion	Lincoln City
+31	2024-02-03	Exeter City	Bristol Rovers
+31	2024-02-03	Fleetwood Town	Port Vale
+31	2024-02-03	Shrewsbury	Cambridge Utd
+31	2024-02-03	P'borough Utd	Wigan Athletic
+31	2024-02-03	Leyton Orient	Carlisle United
+31	2024-02-03	Bolton	Barnsley
+31	2024-02-03	Oxford United	Reading
+31	2024-02-03	Charlton Ath	Derby County
+31	2024-02-03	Cheltenham	Wycombe
+32	2024-02-10	Wycombe	P'borough Utd
+32	2024-02-10	Reading	Charlton Ath
+32	2024-02-10	Port Vale	Stevenage
+32	2024-02-10	Derby County	Shrewsbury
+32	2024-02-10	Carlisle United	Portsmouth
+32	2024-02-10	Lincoln City	Fleetwood Town
+32	2024-02-10	Blackpool	Oxford United
+32	2024-02-10	Wigan Athletic	Exeter City
+32	2024-02-10	Northampton	Bolton
+32	2024-02-10	Cambridge Utd	Cheltenham
+32	2024-02-10	Bristol Rovers	Burton Albion
+32	2024-02-10	Barnsley	Leyton Orient
+33	2024-02-13	Cheltenham	Blackpool
+33	2024-02-13	Fleetwood Town	Reading
+33	2024-02-13	Portsmouth	Cambridge Utd
+33	2024-02-13	Burton Albion	Carlisle United
+33	2024-02-13	Leyton Orient	Northampton
+33	2024-02-13	P'borough Utd	Port Vale
+33	2024-02-13	Oxford United	Wigan Athletic
+33	2024-02-13	Exeter City	Derby County
+33	2024-02-13	Charlton Ath	Lincoln City
+33	2024-02-13	Shrewsbury	Barnsley
+33	2024-02-13	Bolton	Wycombe
+33	2024-02-13	Stevenage	Bristol Rovers
+34	2024-02-17	Wycombe	Oxford United
+34	2024-02-17	P'borough Utd	Blackpool
+34	2024-02-17	Northampton	Bristol Rovers
+34	2024-02-17	Cheltenham	Port Vale
+34	2024-02-17	Bolton	Charlton Ath
+34	2024-02-17	Fleetwood Town	Barnsley
+34	2024-02-17	Portsmouth	Reading
+34	2024-02-17	Leyton Orient	Burton Albion
+34	2024-02-17	Carlisle United	Cambridge Utd
+34	2024-02-17	Lincoln City	Exeter City
+34	2024-02-17	Shrewsbury	Wigan Athletic
+34	2024-02-17	Derby County	Stevenage
+35	2024-02-24	Bristol Rovers	Carlisle United
+35	2024-02-24	Barnsley	Derby County
+35	2024-02-24	Burton Albion	Northampton
+35	2024-02-24	Stevenage	Wycombe
+35	2024-02-24	Port Vale	Lincoln City
+35	2024-02-24	Cambridge Utd	P'borough Utd
+35	2024-02-24	Reading	Shrewsbury
+35	2024-02-24	Exeter City	Fleetwood Town
+35	2024-02-24	Oxford United	Leyton Orient
+35	2024-02-24	Blackpool	Bolton
+35	2024-02-24	Wigan Athletic	Cheltenham
+35	2024-02-24	Charlton Ath	Portsmouth
+36	2024-03-02	Lincoln City	Stevenage
+36	2024-03-02	Derby County	Port Vale
+36	2024-03-02	Leyton Orient	Bristol Rovers
+36	2024-03-02	Portsmouth	Oxford United
+36	2024-03-02	Fleetwood Town	Wigan Athletic
+36	2024-03-02	Cheltenham	Burton Albion
+36	2024-03-02	Shrewsbury	Blackpool
+36	2024-03-02	Northampton	Charlton Ath
+36	2024-03-02	Wycombe	Barnsley
+36	2024-03-02	Bolton	Cambridge Utd
+36	2024-03-02	Carlisle United	Reading
+36	2024-03-02	P'borough Utd	Exeter City
+37	2024-03-09	Exeter City	Bolton
+37	2024-03-09	Burton Albion	P'borough Utd
+37	2024-03-09	Port Vale	Shrewsbury
+37	2024-03-09	Stevenage	Fleetwood Town
+37	2024-03-09	Cambridge Utd	Northampton
+37	2024-03-09	Wigan Athletic	Leyton Orient
+37	2024-03-09	Barnsley	Lincoln City
+37	2024-03-09	Bristol Rovers	Derby County
+37	2024-03-09	Oxford United	Cheltenham
+37	2024-03-09	Reading	Wycombe
+37	2024-03-09	Charlton Ath	Carlisle United
+37	2024-03-09	Blackpool	Portsmouth
+38	2024-03-12	Wycombe	Wigan Athletic
+38	2024-03-12	Bolton	Oxford United
+38	2024-03-12	Lincoln City	Cambridge Utd
+38	2024-03-12	Carlisle United	Barnsley
+38	2024-03-12	Portsmouth	Burton Albion
+38	2024-03-12	Derby County	Reading
+38	2024-03-12	Fleetwood Town	Bristol Rovers
+38	2024-03-12	Cheltenham	Charlton Ath
+38	2024-03-12	Shrewsbury	Exeter City
+38	2024-03-12	P'borough Utd	Stevenage
+38	2024-03-12	Leyton Orient	Port Vale
+38	2024-03-12	Northampton	Blackpool
+39	2024-03-16	Derby County	Bolton
+39	2024-03-16	Fleetwood Town	Charlton Ath
+39	2024-03-16	Port Vale	Oxford United
+39	2024-03-16	Barnsley	Cheltenham
+39	2024-03-16	P'borough Utd	Portsmouth
+39	2024-03-16	Shrewsbury	Carlisle United
+39	2024-03-16	Wycombe	Northampton
+39	2024-03-16	Exeter City	Burton Albion
+39	2024-03-16	Lincoln City	Bristol Rovers
+39	2024-03-16	Reading	Cambridge Utd
+39	2024-03-16	Stevenage	Leyton Orient
+39	2024-03-16	Wigan Athletic	Blackpool
+40	2024-03-23	Blackpool	Fleetwood Town
+40	2024-03-23	Cheltenham	P'borough Utd
+40	2024-03-23	Leyton Orient	Exeter City
+40	2024-03-23	Charlton Ath	Wigan Athletic
+40	2024-03-23	Cambridge Utd	Wycombe
+40	2024-03-23	Portsmouth	Barnsley
+40	2024-03-23	Bolton	Shrewsbury
+40	2024-03-23	Northampton	Derby County
+40	2024-03-23	Oxford United	Lincoln City
+40	2024-03-23	Burton Albion	Port Vale
+40	2024-03-23	Bristol Rovers	Reading
+40	2024-03-23	Carlisle United	Stevenage
+41	2024-03-29	Wycombe	Portsmouth
+41	2024-03-29	Wigan Athletic	Burton Albion
+41	2024-03-29	Reading	Northampton
+41	2024-03-29	Fleetwood Town	Cheltenham
+41	2024-03-29	Shrewsbury	Oxford United
+41	2024-03-29	Lincoln City	Leyton Orient
+41	2024-03-29	Port Vale	Bristol Rovers
+41	2024-03-29	Stevenage	Bolton
+41	2024-03-29	Barnsley	Cambridge Utd
+41	2024-03-29	Derby County	Blackpool
+41	2024-03-29	Exeter City	Charlton Ath
+41	2024-03-29	P'borough Utd	Carlisle United
+42	2024-04-01	Portsmouth	Derby County
+42	2024-04-01	Carlisle United	Lincoln City
+42	2024-04-01	Cambridge Utd	Wigan Athletic
+42	2024-04-01	Cheltenham	Exeter City
+42	2024-04-01	Leyton Orient	P'borough Utd
+42	2024-04-01	Bolton	Reading
+42	2024-04-01	Bristol Rovers	Shrewsbury
+42	2024-04-01	Northampton	Port Vale
+42	2024-04-01	Oxford United	Fleetwood Town
+42	2024-04-01	Charlton Ath	Stevenage
+42	2024-04-01	Blackpool	Wycombe
+42	2024-04-01	Burton Albion	Barnsley
+43	2024-04-06	Northampton	Carlisle United
+43	2024-04-06	Blackpool	Cambridge Utd
+43	2024-04-06	P'borough Utd	Fleetwood Town
+43	2024-04-06	Portsmouth	Shrewsbury
+43	2024-04-06	Bristol Rovers	Bolton
+43	2024-04-06	Exeter City	Stevenage
+43	2024-04-06	Charlton Ath	Barnsley
+43	2024-04-06	Leyton Orient	Cheltenham
+43	2024-04-06	Wigan Athletic	Port Vale
+43	2024-04-06	Wycombe	Derby County
+43	2024-04-06	Reading	Lincoln City
+43	2024-04-06	Burton Albion	Oxford United
+44	2024-04-13	Port Vale	Exeter City
+44	2024-04-13	Oxford United	P'borough Utd
+44	2024-04-13	Shrewsbury	Wycombe
+44	2024-04-13	Cambridge Utd	Charlton Ath
+44	2024-04-13	Cheltenham	Bristol Rovers
+44	2024-04-13	Carlisle United	Blackpool
+44	2024-04-13	Derby County	Leyton Orient
+44	2024-04-13	Barnsley	Reading
+44	2024-04-13	Fleetwood Town	Northampton
+44	2024-04-13	Lincoln City	Wigan Athletic
+44	2024-04-13	Bolton	Portsmouth
+44	2024-04-13	Stevenage	Burton Albion
+45	2024-04-20	Oxford United	Stevenage
+45	2024-04-20	Carlisle United	Wycombe
+45	2024-04-20	Bolton	Port Vale
+45	2024-04-20	Bristol Rovers	P'borough Utd
+45	2024-04-20	Northampton	Exeter City
+45	2024-04-20	Cambridge Utd	Derby County
+45	2024-04-20	Blackpool	Barnsley
+45	2024-04-20	Burton Albion	Reading
+45	2024-04-20	Leyton Orient	Fleetwood Town
+45	2024-04-20	Portsmouth	Wigan Athletic
+45	2024-04-20	Cheltenham	Lincoln City
+45	2024-04-20	Charlton Ath	Shrewsbury
+46	2024-04-27	Port Vale	Cambridge Utd
+46	2024-04-27	Exeter City	Oxford United
+46	2024-04-27	Reading	Blackpool
+46	2024-04-27	Lincoln City	Portsmouth
+46	2024-04-27	P'borough Utd	Bolton
+46	2024-04-27	Stevenage	Cheltenham
+46	2024-04-27	Shrewsbury	Leyton Orient
+46	2024-04-27	Derby County	Carlisle United
+46	2024-04-27	Wigan Athletic	Bristol Rovers
+46	2024-04-27	Wycombe	Charlton Ath
+46	2024-04-27	Fleetwood Town	Burton Albion
+46	2024-04-27	Barnsley	Northampton

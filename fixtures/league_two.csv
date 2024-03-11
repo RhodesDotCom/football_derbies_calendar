@@ -1,0 +1,552 @@
+1	2023-08-05	Colchester Utd	Swindon Town
+1	2023-08-05	Sutton United	Notts County
+1	2023-08-05	Morecambe	Walsall
+1	2023-08-05	Acc'ton Stanley	Newport County
+1	2023-08-05	Doncaster	Harrogate
+1	2023-08-05	Stockport	Gillingham
+1	2023-08-05	Grimsby Town	AFC Wimbledon
+1	2023-08-05	Tranmere Rovers	Barrow
+1	2023-08-05	Wrexham	MK Dons
+1	2023-08-05	Crewe Alexandra	Mansfield Town
+1	2023-08-05	FG Rovers	Salford City
+1	2023-08-05	Crawley Town	Bradford City
+2	2023-08-12	Swindon Town	Crewe Alexandra
+2	2023-08-12	Notts County	Grimsby Town
+2	2023-08-12	Bradford City	Colchester Utd
+2	2023-08-12	Mansfield Town	Morecambe
+2	2023-08-12	MK Dons	Tranmere Rovers
+2	2023-08-12	AFC Wimbledon	Wrexham
+2	2023-08-12	Salford City	Crawley Town
+2	2023-08-12	Harrogate	FG Rovers
+2	2023-08-12	Gillingham	Acc'ton Stanley
+2	2023-08-12	Walsall	Stockport
+2	2023-08-12	Newport County	Doncaster
+2	2023-08-12	Barrow	Sutton United
+3	2023-08-15	Morecambe	Notts County
+3	2023-08-15	Wrexham	Walsall
+3	2023-08-15	Sutton United	Gillingham
+3	2023-08-15	Crawley Town	MK Dons
+3	2023-08-15	FG Rovers	Swindon Town
+3	2023-08-15	Doncaster	Mansfield Town
+3	2023-08-15	Colchester Utd	AFC Wimbledon
+3	2023-08-15	Crewe Alexandra	Newport County
+3	2023-08-15	Acc'ton Stanley	Barrow
+3	2023-08-15	Tranmere Rovers	Harrogate
+3	2023-08-15	Grimsby Town	Salford City
+3	2023-08-15	Stockport	Bradford City
+4	2023-08-19	Crewe Alexandra	Walsall
+4	2023-08-19	FG Rovers	Newport County
+4	2023-08-19	Sutton United	AFC Wimbledon
+4	2023-08-19	Tranmere Rovers	Salford City
+4	2023-08-19	Morecambe	Bradford City
+4	2023-08-19	Doncaster	Notts County
+4	2023-08-19	Wrexham	Swindon Town
+4	2023-08-19	Grimsby Town	Mansfield Town
+4	2023-08-19	Stockport	Barrow
+4	2023-08-19	Crawley Town	Gillingham
+4	2023-08-19	Colchester Utd	MK Dons
+4	2023-08-19	Acc'ton Stanley	Harrogate
+5	2023-08-26	Barrow	Wrexham
+5	2023-08-26	Walsall	Grimsby Town
+5	2023-08-26	Harrogate	Morecambe
+5	2023-08-26	Bradford City	Crewe Alexandra
+5	2023-08-26	Newport County	Sutton United
+5	2023-08-26	Salford City	Acc'ton Stanley
+5	2023-08-26	Gillingham	Colchester Utd
+5	2023-08-26	AFC Wimbledon	FG Rovers
+5	2023-08-26	MK Dons	Doncaster
+5	2023-08-26	Mansfield Town	Stockport
+5	2023-08-26	Swindon Town	Crawley Town
+5	2023-08-26	Notts County	Tranmere Rovers
+6	2023-09-02	Tranmere Rovers	Wrexham
+6	2023-09-02	Grimsby Town	Gillingham
+6	2023-09-02	Morecambe	Salford City
+6	2023-09-02	Crewe Alexandra	MK Dons
+6	2023-09-02	Newport County	AFC Wimbledon
+6	2023-09-02	Stockport	Crawley Town
+6	2023-09-02	Doncaster	Swindon Town
+6	2023-09-02	Sutton United	FG Rovers
+6	2023-09-02	Notts County	Acc'ton Stanley
+6	2023-09-02	Walsall	Colchester Utd
+6	2023-09-02	Harrogate	Barrow
+6	2023-09-02	Mansfield Town	Bradford City
+7	2023-09-09	Bradford City	Grimsby Town
+7	2023-09-09	Gillingham	Harrogate
+7	2023-09-09	Barrow	Morecambe
+7	2023-09-09	Swindon Town	Sutton United
+7	2023-09-09	Salford City	Walsall
+7	2023-09-09	FG Rovers	Crewe Alexandra
+7	2023-09-09	Colchester Utd	Tranmere Rovers
+7	2023-09-09	Acc'ton Stanley	Mansfield Town
+7	2023-09-09	Wrexham	Doncaster
+7	2023-09-09	MK Dons	Notts County
+7	2023-09-09	Crawley Town	Newport County
+7	2023-09-09	AFC Wimbledon	Stockport
+8	2023-09-15	Salford City	Notts County
+8	2023-09-16	Colchester Utd	Mansfield Town
+8	2023-09-16	Gillingham	Morecambe
+8	2023-09-16	Wrexham	Grimsby Town
+8	2023-09-16	AFC Wimbledon	Crewe Alexandra
+8	2023-09-16	Swindon Town	Walsall
+8	2023-09-16	Bradford City	Harrogate
+8	2023-09-16	Crawley Town	Tranmere Rovers
+8	2023-09-16	Acc'ton Stanley	Sutton United
+8	2023-09-16	FG Rovers	Doncaster
+8	2023-09-16	MK Dons	Stockport
+40	2023-09-16	Newport County	Barrow
+9	2023-09-23	Mansfield Town	Barrow
+9	2023-09-23	Newport County	Bradford City
+9	2023-09-23	Sutton United	MK Dons
+9	2023-09-23	Stockport	Wrexham
+9	2023-09-23	Harrogate	Salford City
+9	2023-09-23	Notts County	FG Rovers
+9	2023-09-23	Doncaster	Gillingham
+9	2023-09-23	Crewe Alexandra	Colchester Utd
+9	2023-09-23	Walsall	AFC Wimbledon
+9	2023-09-23	Tranmere Rovers	Acc'ton Stanley
+9	2023-09-23	Morecambe	Swindon Town
+9	2023-09-23	Grimsby Town	Crawley Town
+10	2023-09-30	FG Rovers	Morecambe
+10	2023-09-30	Swindon Town	Grimsby Town
+10	2023-09-30	AFC Wimbledon	Tranmere Rovers
+10	2023-09-30	Barrow	Doncaster
+10	2023-09-30	Colchester Utd	Notts County
+10	2023-09-30	Acc'ton Stanley	Stockport
+10	2023-09-30	Crawley Town	Sutton United
+10	2023-09-30	Bradford City	Walsall
+10	2023-09-30	Salford City	Newport County
+10	2023-09-30	Wrexham	Crewe Alexandra
+10	2023-09-30	Gillingham	Mansfield Town
+10	2023-09-30	MK Dons	Harrogate
+11	2023-10-03	Walsall	MK Dons
+11	2023-10-03	Stockport	FG Rovers
+11	2023-10-03	Grimsby Town	Barrow
+11	2023-10-03	Mansfield Town	Wrexham
+11	2023-10-03	Harrogate	AFC Wimbledon
+11	2023-10-03	Newport County	Colchester Utd
+11	2023-10-03	Morecambe	Acc'ton Stanley
+11	2023-10-03	Crewe Alexandra	Gillingham
+11	2023-10-03	Tranmere Rovers	Bradford City
+11	2023-10-03	Notts County	Swindon Town
+11	2023-10-03	Doncaster	Crawley Town
+11	2023-10-03	Sutton United	Salford City
+12	2023-10-07	Barrow	Notts County
+12	2023-10-07	Mansfield Town	AFC Wimbledon
+12	2023-10-07	Bradford City	Swindon Town
+12	2023-10-07	Crawley Town	Wrexham
+12	2023-10-07	Gillingham	MK Dons
+12	2023-10-07	Stockport	Doncaster
+12	2023-10-07	Acc'ton Stanley	FG Rovers
+12	2023-10-07	Salford City	Crewe Alexandra
+12	2023-10-07	Tranmere Rovers	Grimsby Town
+12	2023-10-07	Colchester Utd	Morecambe
+12	2023-10-07	Sutton United	Walsall
+12	2023-10-07	Newport County	Harrogate
+13	2023-10-14	AFC Wimbledon	Bradford City
+13	2023-10-14	Swindon Town	Newport County
+13	2023-10-14	Grimsby Town	Acc'ton Stanley
+13	2023-10-14	Walsall	Gillingham
+13	2023-10-14	FG Rovers	Colchester Utd
+13	2023-10-14	Doncaster	Sutton United
+13	2023-10-14	MK Dons	Barrow
+13	2023-10-14	Notts County	Mansfield Town
+13	2023-10-14	Harrogate	Stockport
+13	2023-10-14	Crewe Alexandra	Tranmere Rovers
+13	2023-10-14	Wrexham	Salford City
+13	2023-10-14	Morecambe	Crawley Town
+14	2023-10-21	Mansfield Town	FG Rovers
+14	2023-10-21	Salford City	Swindon Town
+14	2023-10-21	Bradford City	Wrexham
+14	2023-10-21	Colchester Utd	Harrogate
+14	2023-10-21	Crawley Town	Crewe Alexandra
+14	2023-10-21	Tranmere Rovers	Doncaster
+14	2023-10-21	Gillingham	Notts County
+14	2023-10-21	Sutton United	Morecambe
+14	2023-10-21	Barrow	AFC Wimbledon
+14	2023-10-21	Newport County	Walsall
+14	2023-10-21	Acc'ton Stanley	MK Dons
+14	2023-10-21	Stockport	Grimsby Town
+15	2023-10-24	Wrexham	Sutton United
+15	2023-10-24	Swindon Town	Gillingham
+15	2023-10-24	Harrogate	Mansfield Town
+15	2023-10-24	AFC Wimbledon	Acc'ton Stanley
+15	2023-10-24	Walsall	Crawley Town
+15	2023-10-24	FG Rovers	Barrow
+15	2023-10-24	Crewe Alexandra	Stockport
+15	2023-10-24	MK Dons	Bradford City
+15	2023-10-24	Notts County	Newport County
+15	2023-10-24	Grimsby Town	Colchester Utd
+15	2023-10-24	Morecambe	Tranmere Rovers
+15	2023-10-24	Doncaster	Salford City
+16	2023-10-28	MK Dons	Swindon Town
+16	2023-10-28	Sutton United	Bradford City
+16	2023-10-28	Stockport	Tranmere Rovers
+16	2023-10-28	Morecambe	AFC Wimbledon
+16	2023-10-28	Notts County	Wrexham
+16	2023-10-28	Harrogate	Crewe Alexandra
+16	2023-10-28	Doncaster	Grimsby Town
+16	2023-10-28	Acc'ton Stanley	Colchester Utd
+16	2023-10-28	Mansfield Town	Walsall
+16	2023-10-28	Gillingham	Newport County
+16	2023-10-28	FG Rovers	Crawley Town
+16	2023-10-28	Barrow	Salford City
+17	2023-11-11	Newport County	MK Dons
+17	2023-11-11	AFC Wimbledon	Doncaster
+17	2023-11-11	Crewe Alexandra	Notts County
+17	2023-11-11	Swindon Town	Stockport
+17	2023-11-11	Crawley Town	Acc'ton Stanley
+17	2023-11-11	Bradford City	Barrow
+17	2023-11-11	Colchester Utd	Sutton United
+17	2023-11-11	Salford City	Mansfield Town
+17	2023-11-11	Tranmere Rovers	FG Rovers
+17	2023-11-11	Wrexham	Gillingham
+17	2023-11-11	Walsall	Harrogate
+17	2023-11-11	Grimsby Town	Morecambe
+18	2023-11-18	Notts County	Bradford City
+18	2023-11-18	Stockport	Colchester Utd
+18	2023-11-18	Gillingham	Salford City
+18	2023-11-18	Barrow	Crawley Town
+18	2023-11-18	Acc'ton Stanley	Wrexham
+18	2023-11-18	Doncaster	Walsall
+18	2023-11-18	Harrogate	Swindon Town
+18	2023-11-18	Morecambe	Crewe Alexandra
+18	2023-11-18	FG Rovers	Grimsby Town
+18	2023-11-18	Sutton United	Tranmere Rovers
+18	2023-11-18	Mansfield Town	Newport County
+18	2023-11-18	MK Dons	AFC Wimbledon
+19	2023-11-25	Grimsby Town	Sutton United
+19	2023-11-25	Bradford City	Acc'ton Stanley
+19	2023-11-25	Colchester Utd	Barrow
+19	2023-11-25	Wrexham	Morecambe
+19	2023-11-25	Tranmere Rovers	Gillingham
+19	2023-11-25	Salford City	MK Dons
+19	2023-11-25	Walsall	FG Rovers
+19	2023-11-25	Newport County	Stockport
+19	2023-11-25	Crewe Alexandra	Doncaster
+19	2023-11-25	Swindon Town	Mansfield Town
+19	2023-11-25	AFC Wimbledon	Notts County
+19	2023-11-25	Crawley Town	Harrogate
+20	2023-11-28	Stockport	Salford City
+20	2023-11-28	FG Rovers	Bradford City
+20	2023-11-28	Sutton United	Crewe Alexandra
+20	2023-11-28	Notts County	Crawley Town
+20	2023-11-28	Acc'ton Stanley	Swindon Town
+20	2023-11-28	Harrogate	Wrexham
+20	2023-11-28	Mansfield Town	Tranmere Rovers
+20	2023-11-28	Doncaster	Colchester Utd
+20	2023-11-28	Gillingham	AFC Wimbledon
+20	2023-11-28	MK Dons	Grimsby Town
+20	2023-11-28	Barrow	Walsall
+20	2023-11-28	Morecambe	Newport County
+21	2023-12-09	FG Rovers	Wrexham
+21	2023-12-09	Notts County	Walsall
+21	2023-12-09	Acc'ton Stanley	Doncaster
+21	2023-12-09	Grimsby Town	Crewe Alexandra
+21	2023-12-09	Colchester Utd	Crawley Town
+21	2023-12-09	Sutton United	Harrogate
+21	2023-12-09	AFC Wimbledon	Swindon Town
+21	2023-12-09	Mansfield Town	MK Dons
+21	2023-12-09	Morecambe	Stockport
+21	2023-12-09	Bradford City	Salford City
+21	2023-12-09	Barrow	Gillingham
+21	2023-12-09	Tranmere Rovers	Newport County
+22	2023-12-16	Stockport	Sutton United
+22	2023-12-16	Harrogate	Notts County
+22	2023-12-16	Doncaster	Morecambe
+22	2023-12-16	Gillingham	Bradford City
+22	2023-12-16	Swindon Town	Barrow
+22	2023-12-16	Walsall	Tranmere Rovers
+22	2023-12-16	Newport County	Grimsby Town
+22	2023-12-16	Crewe Alexandra	Acc'ton Stanley
+22	2023-12-16	MK Dons	FG Rovers
+22	2023-12-16	Crawley Town	Mansfield Town
+22	2023-12-16	Wrexham	Colchester Utd
+22	2023-12-16	Salford City	AFC Wimbledon
+23	2023-12-23	Grimsby Town	Harrogate
+23	2023-12-23	Crawley Town	AFC Wimbledon
+23	2023-12-23	Acc'ton Stanley	Walsall
+23	2023-12-23	Sutton United	Mansfield Town
+23	2023-12-23	Doncaster	Bradford City
+23	2023-12-23	Crewe Alexandra	Barrow
+23	2023-12-23	FG Rovers	Gillingham
+23	2023-12-23	Colchester Utd	Salford City
+23	2023-12-23	Stockport	Notts County
+23	2023-12-23	Wrexham	Newport County
+23	2023-12-23	Tranmere Rovers	Swindon Town
+23	2023-12-23	Morecambe	MK Dons
+24	2023-12-26	Gillingham	Crawley Town
+24	2023-12-26	Notts County	Doncaster
+24	2023-12-26	Barrow	Stockport
+24	2023-12-26	Walsall	Crewe Alexandra
+24	2023-12-26	Swindon Town	Wrexham
+24	2023-12-26	Salford City	Tranmere Rovers
+24	2023-12-26	Mansfield Town	Grimsby Town
+24	2023-12-26	Bradford City	Morecambe
+24	2023-12-26	Newport County	FG Rovers
+24	2023-12-26	AFC Wimbledon	Sutton United
+24	2023-12-26	Harrogate	Acc'ton Stanley
+24	2023-12-26	MK Dons	Colchester Utd
+25	2023-12-29	Mansfield Town	Doncaster
+25	2023-12-29	Newport County	Crewe Alexandra
+25	2023-12-29	AFC Wimbledon	Colchester Utd
+25	2023-12-29	Bradford City	Stockport
+25	2023-12-29	Gillingham	Sutton United
+25	2023-12-29	Harrogate	Tranmere Rovers
+25	2023-12-29	Walsall	Wrexham
+25	2023-12-29	Barrow	Acc'ton Stanley
+25	2023-12-29	Salford City	Grimsby Town
+25	2023-12-29	MK Dons	Crawley Town
+25	2023-12-29	Notts County	Morecambe
+25	2023-12-29	Swindon Town	FG Rovers
+26	2024-01-01	Doncaster	MK Dons
+26	2024-01-01	Crawley Town	Swindon Town
+26	2024-01-01	Stockport	Mansfield Town
+26	2024-01-01	Morecambe	Harrogate
+26	2024-01-01	Crewe Alexandra	Bradford City
+26	2024-01-01	Sutton United	Newport County
+26	2024-01-01	Acc'ton Stanley	Salford City
+26	2024-01-01	Colchester Utd	Gillingham
+26	2024-01-01	Wrexham	Barrow
+26	2024-01-01	Grimsby Town	Walsall
+26	2024-01-01	FG Rovers	AFC Wimbledon
+26	2024-01-01	Tranmere Rovers	Notts County
+27	2024-01-06	AFC Wimbledon	Grimsby Town
+27	2024-01-06	Mansfield Town	Crewe Alexandra
+27	2024-01-06	Swindon Town	Colchester Utd
+27	2024-01-06	Gillingham	Stockport
+27	2024-01-06	Bradford City	Crawley Town
+27	2024-01-06	Walsall	Morecambe
+27	2024-01-06	Newport County	Acc'ton Stanley
+27	2024-01-06	Notts County	Sutton United
+27	2024-01-06	Barrow	Tranmere Rovers
+27	2024-01-06	Harrogate	Doncaster
+27	2024-01-06	MK Dons	Wrexham
+27	2024-01-06	Salford City	FG Rovers
+28	2024-01-13	Colchester Utd	Bradford City
+28	2024-01-13	Stockport	Walsall
+28	2024-01-13	Acc'ton Stanley	Gillingham
+28	2024-01-13	Tranmere Rovers	MK Dons
+28	2024-01-13	Crawley Town	Salford City
+28	2024-01-13	Wrexham	AFC Wimbledon
+28	2024-01-13	Morecambe	Mansfield Town
+28	2024-01-13	Sutton United	Barrow
+28	2024-01-13	Grimsby Town	Notts County
+28	2024-01-13	Crewe Alexandra	Swindon Town
+28	2024-01-13	FG Rovers	Harrogate
+28	2024-01-13	Doncaster	Newport County
+29	2024-01-20	AFC Wimbledon	Crawley Town
+29	2024-01-20	Gillingham	FG Rovers
+29	2024-01-20	Salford City	Colchester Utd
+29	2024-01-20	Swindon Town	Tranmere Rovers
+29	2024-01-20	Barrow	Crewe Alexandra
+29	2024-01-20	Harrogate	Grimsby Town
+29	2024-01-20	Walsall	Acc'ton Stanley
+29	2024-01-20	Newport County	Wrexham
+29	2024-01-20	Mansfield Town	Sutton United
+29	2024-01-20	MK Dons	Morecambe
+29	2024-01-20	Notts County	Stockport
+29	2024-01-20	Bradford City	Doncaster
+30	2024-01-27	Walsall	Sutton United
+30	2024-01-27	Swindon Town	Bradford City
+30	2024-01-27	Doncaster	Stockport
+30	2024-01-27	AFC Wimbledon	Mansfield Town
+30	2024-01-27	Notts County	Barrow
+30	2024-01-27	MK Dons	Gillingham
+30	2024-01-27	Wrexham	Crawley Town
+30	2024-01-27	Grimsby Town	Tranmere Rovers
+30	2024-01-27	Morecambe	Colchester Utd
+30	2024-01-27	FG Rovers	Acc'ton Stanley
+30	2024-01-27	Crewe Alexandra	Salford City
+30	2024-01-27	Harrogate	Newport County
+31	2024-02-03	Bradford City	AFC Wimbledon
+31	2024-02-03	Sutton United	Doncaster
+31	2024-02-03	Salford City	Wrexham
+31	2024-02-03	Colchester Utd	FG Rovers
+31	2024-02-03	Stockport	Harrogate
+31	2024-02-03	Acc'ton Stanley	Grimsby Town
+31	2024-02-03	Newport County	Swindon Town
+31	2024-02-03	Tranmere Rovers	Crewe Alexandra
+31	2024-02-03	Mansfield Town	Notts County
+31	2024-02-03	Crawley Town	Morecambe
+31	2024-02-03	Gillingham	Walsall
+31	2024-02-03	Barrow	MK Dons
+32	2024-02-10	MK Dons	Acc'ton Stanley
+32	2024-02-10	Notts County	Gillingham
+32	2024-02-10	Morecambe	Sutton United
+32	2024-02-10	FG Rovers	Mansfield Town
+32	2024-02-10	Walsall	Newport County
+32	2024-02-10	Grimsby Town	Stockport
+32	2024-02-10	Crewe Alexandra	Crawley Town
+32	2024-02-10	Doncaster	Tranmere Rovers
+32	2024-02-10	Wrexham	Bradford City
+32	2024-02-10	AFC Wimbledon	Barrow
+32	2024-02-10	Harrogate	Colchester Utd
+32	2024-02-10	Swindon Town	Salford City
+33	2024-02-13	Acc'ton Stanley	AFC Wimbledon
+33	2024-02-13	Stockport	Crewe Alexandra
+33	2024-02-13	Colchester Utd	Grimsby Town
+33	2024-02-13	Newport County	Notts County
+33	2024-02-13	Salford City	Doncaster
+33	2024-02-13	Sutton United	Wrexham
+33	2024-02-13	Crawley Town	Walsall
+33	2024-02-13	Barrow	FG Rovers
+33	2024-02-13	Tranmere Rovers	Morecambe
+33	2024-02-13	Bradford City	MK Dons
+33	2024-02-13	Mansfield Town	Harrogate
+33	2024-02-13	Gillingham	Swindon Town
+34	2024-02-17	Salford City	Barrow
+34	2024-02-17	Newport County	Gillingham
+34	2024-02-17	Tranmere Rovers	Stockport
+34	2024-02-17	Walsall	Mansfield Town
+34	2024-02-17	Bradford City	Sutton United
+34	2024-02-17	AFC Wimbledon	Morecambe
+34	2024-02-17	Swindon Town	MK Dons
+34	2024-02-17	Grimsby Town	Doncaster
+34	2024-02-17	Crawley Town	FG Rovers
+34	2024-02-17	Wrexham	Notts County
+34	2024-02-17	Colchester Utd	Acc'ton Stanley
+34	2024-02-17	Crewe Alexandra	Harrogate
+35	2024-02-24	Acc'ton Stanley	Crawley Town
+35	2024-02-24	Doncaster	AFC Wimbledon
+35	2024-02-24	Notts County	Crewe Alexandra
+35	2024-02-24	Gillingham	Wrexham
+35	2024-02-24	MK Dons	Newport County
+35	2024-02-24	Barrow	Bradford City
+35	2024-02-24	Sutton United	Colchester Utd
+35	2024-02-24	Mansfield Town	Salford City
+35	2024-02-24	FG Rovers	Tranmere Rovers
+35	2024-02-24	Stockport	Swindon Town
+35	2024-02-24	Morecambe	Grimsby Town
+35	2024-02-24	Harrogate	Walsall
+36	2024-03-02	Bradford City	Notts County
+36	2024-03-02	Grimsby Town	FG Rovers
+36	2024-03-02	Crewe Alexandra	Morecambe
+36	2024-03-02	Swindon Town	Harrogate
+36	2024-03-02	Newport County	Mansfield Town
+36	2024-03-02	Tranmere Rovers	Sutton United
+36	2024-03-02	Salford City	Gillingham
+36	2024-03-02	Wrexham	Acc'ton Stanley
+36	2024-03-02	Walsall	Doncaster
+36	2024-03-02	AFC Wimbledon	MK Dons
+36	2024-03-02	Colchester Utd	Stockport
+36	2024-03-02	Crawley Town	Barrow
+37	2024-03-09	Barrow	Colchester Utd
+37	2024-03-09	MK Dons	Salford City
+37	2024-03-09	Acc'ton Stanley	Bradford City
+37	2024-03-09	Mansfield Town	Swindon Town
+37	2024-03-09	Doncaster	Crewe Alexandra
+37	2024-03-09	Morecambe	Wrexham
+37	2024-03-09	Notts County	AFC Wimbledon
+37	2024-03-09	Harrogate	Crawley Town
+37	2024-03-09	FG Rovers	Walsall
+37	2024-03-09	Gillingham	Tranmere Rovers
+37	2024-03-09	Sutton United	Grimsby Town
+37	2024-03-09	Stockport	Newport County
+38	2024-03-12	Newport County	Morecambe
+38	2024-03-12	Bradford City	FG Rovers
+38	2024-03-12	Tranmere Rovers	Mansfield Town
+38	2024-03-12	Colchester Utd	Doncaster
+38	2024-03-12	Crewe Alexandra	Sutton United
+38	2024-03-12	Walsall	Barrow
+38	2024-03-12	Wrexham	Harrogate
+38	2024-03-12	Crawley Town	Notts County
+38	2024-03-12	AFC Wimbledon	Gillingham
+38	2024-03-12	Swindon Town	Acc'ton Stanley
+38	2024-03-12	Grimsby Town	MK Dons
+38	2024-03-12	Salford City	Stockport
+39	2024-03-16	Acc'ton Stanley	Notts County
+39	2024-03-16	Gillingham	Grimsby Town
+39	2024-03-16	Crawley Town	Stockport
+39	2024-03-16	Swindon Town	Doncaster
+39	2024-03-16	Bradford City	Mansfield Town
+39	2024-03-16	Barrow	Harrogate
+39	2024-03-16	Wrexham	Tranmere Rovers
+39	2024-03-16	Colchester Utd	Walsall
+39	2024-03-16	AFC Wimbledon	Newport County
+39	2024-03-16	MK Dons	Crewe Alexandra
+39	2024-03-16	FG Rovers	Sutton United
+39	2024-03-16	Salford City	Morecambe
+40	2024-03-23	Morecambe	Gillingham
+40	2024-03-23	Harrogate	Bradford City
+40	2024-03-23	Notts County	Salford City
+40	2024-03-23	Tranmere Rovers	Crawley Town
+40	2024-03-23	Doncaster	FG Rovers
+40	2024-03-23	Sutton United	Acc'ton Stanley
+40	2024-03-23	Mansfield Town	Colchester Utd
+40	2024-03-23	Stockport	MK Dons
+40	2024-03-23	Crewe Alexandra	AFC Wimbledon
+40	2024-03-23	Grimsby Town	Wrexham
+40	2024-03-23	Walsall	Swindon Town
+8	2024-03-23	Barrow	Newport County
+41	2024-03-29	AFC Wimbledon	Harrogate
+41	2024-03-29	MK Dons	Walsall
+41	2024-03-29	Bradford City	Tranmere Rovers
+41	2024-03-29	Barrow	Grimsby Town
+41	2024-03-29	Colchester Utd	Newport County
+41	2024-03-29	Swindon Town	Notts County
+41	2024-03-29	FG Rovers	Stockport
+41	2024-03-29	Wrexham	Mansfield Town
+41	2024-03-29	Gillingham	Crewe Alexandra
+41	2024-03-29	Crawley Town	Doncaster
+41	2024-03-29	Acc'ton Stanley	Morecambe
+41	2024-03-29	Salford City	Sutton United
+42	2024-04-01	Walsall	Salford City
+42	2024-04-01	Morecambe	Barrow
+42	2024-04-01	Grimsby Town	Bradford City
+42	2024-04-01	Tranmere Rovers	Colchester Utd
+42	2024-04-01	Notts County	MK Dons
+42	2024-04-01	Stockport	AFC Wimbledon
+42	2024-04-01	Mansfield Town	Acc'ton Stanley
+42	2024-04-01	Crewe Alexandra	FG Rovers
+42	2024-04-01	Sutton United	Swindon Town
+42	2024-04-01	Doncaster	Wrexham
+42	2024-04-01	Harrogate	Gillingham
+42	2024-04-01	Newport County	Crawley Town
+43	2024-04-06	Sutton United	Stockport
+43	2024-04-06	Morecambe	Doncaster
+43	2024-04-06	Tranmere Rovers	Walsall
+43	2024-04-06	Mansfield Town	Crawley Town
+43	2024-04-06	Barrow	Swindon Town
+43	2024-04-06	Acc'ton Stanley	Crewe Alexandra
+43	2024-04-06	Bradford City	Gillingham
+43	2024-04-06	AFC Wimbledon	Salford City
+43	2024-04-06	Notts County	Harrogate
+43	2024-04-06	Colchester Utd	Wrexham
+43	2024-04-06	FG Rovers	MK Dons
+43	2024-04-06	Grimsby Town	Newport County
+44	2024-04-13	Stockport	Morecambe
+44	2024-04-13	Salford City	Bradford City
+44	2024-04-13	Crewe Alexandra	Grimsby Town
+44	2024-04-13	Newport County	Tranmere Rovers
+44	2024-04-13	Gillingham	Barrow
+44	2024-04-13	Crawley Town	Colchester Utd
+44	2024-04-13	Doncaster	Acc'ton Stanley
+44	2024-04-13	Walsall	Notts County
+44	2024-04-13	Swindon Town	AFC Wimbledon
+44	2024-04-13	Harrogate	Sutton United
+44	2024-04-13	Wrexham	FG Rovers
+44	2024-04-13	MK Dons	Mansfield Town
+45	2024-04-20	Walsall	Bradford City
+45	2024-04-20	Harrogate	MK Dons
+45	2024-04-20	Morecambe	FG Rovers
+45	2024-04-20	Grimsby Town	Swindon Town
+45	2024-04-20	Newport County	Salford City
+45	2024-04-20	Tranmere Rovers	AFC Wimbledon
+45	2024-04-20	Notts County	Colchester Utd
+45	2024-04-20	Sutton United	Crawley Town
+45	2024-04-20	Doncaster	Barrow
+45	2024-04-20	Crewe Alexandra	Wrexham
+45	2024-04-20	Stockport	Acc'ton Stanley
+45	2024-04-20	Mansfield Town	Gillingham
+46	2024-04-27	Salford City	Harrogate
+46	2024-04-27	Acc'ton Stanley	Tranmere Rovers
+46	2024-04-27	Wrexham	Stockport
+46	2024-04-27	AFC Wimbledon	Walsall
+46	2024-04-27	Gillingham	Doncaster
+46	2024-04-27	Barrow	Mansfield Town
+46	2024-04-27	FG Rovers	Notts County
+46	2024-04-27	Colchester Utd	Crewe Alexandra
+46	2024-04-27	Swindon Town	Morecambe
+46	2024-04-27	MK Dons	Sutton United
+46	2024-04-27	Crawley Town	Grimsby Town
+46	2024-04-27	Bradford City	Newport County
